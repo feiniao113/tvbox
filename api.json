@@ -306,17 +306,6 @@
             "filterable": 1
         },
         {
-            "key": "js_大师兄",
-            "name": "🐵┃师兄┃影视",
-            "type": 3,
-            "api": "./drpymin.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/大师兄影视.js"
-        },
-      
-        {
             "key": "csp_XYQHiker_野荷塘",
             "name": "🌷┃荷塘┃影院",
             "type": 3,
