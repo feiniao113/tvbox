@@ -287,16 +287,6 @@
             "ext": "./js/稀饭.js"
         },
         {
-            "key": "Kuaikan",
-            "name": "🦋┃快看┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-   
-        {
             "key": "csp_AppMr",
             "name": "🦍┃二明┃影视",
             "type": 3,
