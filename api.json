@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "┃豆瓣┃榜单┃",
+            "name": "┃豆瓣┃榜单",
             "type": 3,
             "api": "./drpymin.js",
             "searchable": 1,
