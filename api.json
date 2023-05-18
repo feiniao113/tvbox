@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./fty.jar"},
+      "jar":"./fty.jar"
     },
         {
             "key": "js豆瓣",
