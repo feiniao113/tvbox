@@ -12,7 +12,19 @@
       "filterable": 1,
       "jar":"./fty.jar"
     },
-        {
+       
+  {  "key": "csp_appys_多米",
+         "name": "🚘┃多米┃直连",
+         "type": 3,
+         "api": "csp_AppYsV2",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "http://v.dmdh.top/api.php/app/"
+    },     
+
+{"key":"csp_AppYsV2_酷影蓝光","name":"🚘┃酷影┃直连","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
+ {
             "key": "js豆瓣",
             "name": "🌺┃豆瓣┃榜单",
             "type": 3,
