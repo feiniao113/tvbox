@@ -9,7 +9,8 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"./fty.jar"},
     },
         {
             "key": "js豆瓣",
