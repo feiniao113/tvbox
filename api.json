@@ -146,7 +146,7 @@
 			"name": "🐏┃八仟┃电影",
 			"type": 1,
 			"api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
-			"playUrl": "json:http://47.119.122.235:5566/json/free.php?url="
+			"playUrl": "json:http://tv.realku.cn/api/?api_id=4&vod_url="
 		},
 		{
 			"key": "csp_XBPQ_奇优",
