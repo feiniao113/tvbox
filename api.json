@@ -21,16 +21,6 @@
 			"ext": "http://v.dmdh.top/api.php/app/"
 		},
 		{
-			"key": "csp_AppYsV2_酷影蓝光",
-			"name": "🚘┃酷影┃直连",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://kuyun.realku.cn/api.php/app/"
-		},
-		{
 			"key": "js豆瓣",
 			"name": "🌺┃豆瓣┃榜单",
 			"type": 3,
@@ -58,16 +48,6 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "./json/zb.json"
-		},
-		{
-			"key": "csp_Bili",
-			"name": "🅱️┃哔哩┃合集",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./json/bili.json"
 		},
 		{
 			"key": "短视频聚合",
@@ -112,16 +92,6 @@
 			"ext": "https://api-aws.11ty.top"
 		},
 		{
-			"key": "csp_Nmys",
-			"name": "👨‍🌾┃农民┃影视",
-			"type": 3,
-			"api": "csp_Nmys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./json/Nmys.json"
-		},
-		{
 			"key": "csp_XYQBiu_磁力熊",
 			"name": "🧸┃磁力┃贝尔",
 			"type": 3,
@@ -130,16 +100,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./json/磁力熊.json"
-		},
-		{
-			"key": "mtv_pc_yinfans",
-			"name": "🧲┃磁力┃范丝",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./json/音范丝.json"
 		},
 		{
 			"key": "csp_8K",
@@ -241,16 +201,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "dr_厂长资源",
-			"name": "🏘️┃厂长┃[JS]",
-			"type": 3,
-			"api": "./drpymin.js",
-			"searchable": 0,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./js/czspp.js"
-		},
-		{
 			"key": "csp_Lib",
 			"name": "🍲┃利奥┃[SP]",
 			"type": 3,
@@ -329,16 +279,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_XYQHiker_野荷塘",
-			"name": "🌷┃荷塘┃影院",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./json/野荷塘.json"
-		},
-		{
 			"key": "csp_xBPQ_胖虎",
 			"name": "🐯┃胖虎┃影视",
 			"type": 3,
@@ -377,15 +317,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://www.lgyy.vip"
-		},
-		{
-			"key": "csp_Vofl",
-			"name": "🧿┃VoFl┃[SP]",
-			"type": 3,
-			"api": "csp_Voflix",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "csp_biubiu_voflix",
@@ -427,16 +358,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./js/小狗.js"
-		},
-		{
-			"key": "py_xigua",
-			"name": "🍉┃西瓜┃视频",
-			"type": 3,
-			"api": "py_xigua",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./py/xigua.py"
 		},
 		{
 			"key": "drpy_js_企鹅",
@@ -557,16 +478,6 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "./py/cctv.py"
-		},
-		{
-			"key": "csp_XBPQ_真不卡",
-			"name": "🚀┃真卡┃[XB]",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./json/真不卡.json"
 		},
 		{
 			"key": "csp_Ysgc",
@@ -903,16 +814,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./json/达达龟.json"
-		},
-		{
-			"key": "csp_XBPQ_金眼影视",
-			"name": "🌟┃金眼┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./json/金眼影视.json"
 		}
 	],
 	"lives": [
