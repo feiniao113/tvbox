@@ -11,16 +11,6 @@
 			"jar": "./fty.jar"
 		},
 		{
-			"key": "csp_appys_多米",
-			"name": "🚘┃多米┃直连",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://v.dmdh.top/api.php/app/"
-		},
-		{
 			"key": "js豆瓣",
 			"name": "🌺┃豆瓣┃榜单",
 			"type": 3,
@@ -81,16 +71,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://api-aws.11ty.top"
-		},
-		{
-			"key": "csp_XYQBiu_磁力熊",
-			"name": "🧸┃磁力┃贝尔",
-			"type": 3,
-			"api": "csp_XYQBiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./json/磁力熊.json"
 		},
 		{
 			"key": "csp_8K",
