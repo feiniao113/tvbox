@@ -400,16 +400,7 @@
 				"体育"
 			]
 		},
-		{
-			"key": "js_莫扎兔",
-			"name": "🐰┃莫扎┃影视",
-			"type": 3,
-			"api": "./drpymin.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./js/莫扎兔.js"
-		},
+		
 		{
 			"key": "py_cctv",
 			"name": "❤️┃央视┃大全",
