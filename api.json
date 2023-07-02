@@ -175,16 +175,6 @@
 			"ext": "https://tv.libvio.cc/"
 		},
 		{
-			"key": "csp_XBPQ_LIBVIO",
-			"name": "🍲┃利奥┃[XB]",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./json/LIBVIO.json"
-		},
-		{
 			"key": "csp_DiDuan",
 			"name": "🐞┃低端┃[SP]",
 			"type": 3,
