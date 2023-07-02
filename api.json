@@ -411,26 +411,6 @@
 			"ext": "./js/莫扎兔.js"
 		},
 		{
-			"key": "csp_XBPQ_无名",
-			"name": "🌈┃无名┃小站",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./json/无名小站.json"
-		},
-		{
-			"key": "csp_xpath_独播库",
-			"name": "🐲┃独播┃影视",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./json/duboku.json"
-		},
-		{
 			"key": "py_cctv",
 			"name": "❤️┃央视┃大全",
 			"type": 3,
