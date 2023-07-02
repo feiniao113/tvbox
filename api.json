@@ -73,13 +73,6 @@
 			"ext": "https://api-aws.11ty.top"
 		},
 		{
-			"key": "csp_8K",
-			"name": "🐏┃八仟┃电影",
-			"type": 1,
-			"api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
-			"playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url="
-		},
-		{
 			"key": "csp_XBPQ_奇优",
 			"name": "🧼┃奇优┃影院",
 			"type": 3,
