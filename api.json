@@ -175,25 +175,6 @@
 			"ext": "https://tv.libvio.cc/"
 		},
 		{
-			"key": "csp_DiDuan",
-			"name": "🐞┃低端┃[SP]",
-			"type": 3,
-			"api": "csp_Ddrk",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
-		{
-			"key": "drpy_js_ddys",
-			"name": "🐞┃低端┃[JS]",
-			"type": 3,
-			"api": "./drpymin.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./js/ddys.js"
-		},
-		{
 			"key": "js_稀饭影视",
 			"name": "🍚┃稀饭┃影视",
 			"type": 3,
